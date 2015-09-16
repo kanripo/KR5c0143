@@ -1,20 +1,3 @@
-#+TITLE: 通玄真經纘義 / HFL
+#+TITLE: Data branch for _data
 
-#+DATE: 2015-08-29 00:48:15.580258
-* 版本
- |       HFL|【正統道藏・涵芬樓版】|
- |      ZTDZ|【正統道藏・三家本】|
-目次
- - [[file:KR5c0143_000.txt][通玄真經纘義 0]]
- - [[file:KR5c0143_001.txt][通玄真經纘義 1]]
- - [[file:KR5c0143_002.txt][通玄真經纘義 2]]
- - [[file:KR5c0143_003.txt][通玄真經纘義 3]]
- - [[file:KR5c0143_004.txt][通玄真經纘義 4]]
- - [[file:KR5c0143_005.txt][通玄真經纘義 5]]
- - [[file:KR5c0143_006.txt][通玄真經纘義 6]]
- - [[file:KR5c0143_007.txt][通玄真經纘義 7]]
- - [[file:KR5c0143_008.txt][通玄真經纘義 8]]
- - [[file:KR5c0143_009.txt][通玄真經纘義 9]]
- - [[file:KR5c0143_010.txt][通玄真經纘義 10]]
- - [[file:KR5c0143_011.txt][通玄真經纘義 11]]
- - [[file:KR5c0143_012.txt][通玄真經纘義 12]]
+This branch contains data files that are used by the system.  The folder =imglist= has a list of digital facsimile pages for each file of the text.  This information is used to display text and image side-by-side.
